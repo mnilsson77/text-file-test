@@ -1,1 +1,1 @@
-Text file created locally on user 2 folder.
+Text file created (inserted by user1) locally on user 2 folder.
