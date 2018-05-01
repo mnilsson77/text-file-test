@@ -1,2 +1,3 @@
 Text in local created text file.
 Row 2 added by user 2.
+User 1 also add row 2.
